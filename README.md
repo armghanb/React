@@ -8,7 +8,6 @@ then
 $ npm start
 ```
 open
-http://localhost:8080
+http://localhost:3000
 
 ``` shell
-Go To /src/index.html
